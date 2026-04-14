@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 This project was created for fun using **Python’s Turtle graphics library**.  
-It generates an abstract spiral pattern resembling an **exoplanet orbit**.  
+It generates an abstract spiral pattern resembling an **exoplanet**.  
 The program demonstrates how to use Turtle for creative coding, combining loops, geometry, and artistic visuals.
 
 ---
@@ -19,7 +19,7 @@ The program demonstrates how to use Turtle for creative coding, combining loops,
 ```
 project-root/
 │
-├── exo_planet.py           # Main Python script
+├── ExoP.py           # Main Python script
 └── README.md               # Documentation
 ```
 
@@ -29,7 +29,7 @@ project-root/
 1. Ensure you have **Python 3.x** installed.
 2. Run the script:
    ```bash
-   python exo_planet.py
+   python ExoP.py
 
 
 ---
